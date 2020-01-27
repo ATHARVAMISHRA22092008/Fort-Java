@@ -1,2 +1,2 @@
-# Fort-Java
-Welcome to the palace guarding the vast kingdom of javascript
+# p5.play-boilerplate
+Boiler plate for p5.play
